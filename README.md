@@ -6,7 +6,7 @@ Esta pequeña app es un simple ejemplo de la aplicación de la arquitectura de c
 
 Home Loading View             |  HomeView                 | Detail View 
 :-------------------------:|:-------------------------:|:-------------------------:
-<img src="pictures/s1.png">  |  <img src="pictures/s2.png" width=95% height=95%> | <img src="pictures/s3.png">
+<img src="pictures/s1.png" width=50% height=50%>  |  <img src="pictures/s2.png" width=50% height=50%> |<img src="pictures/s3.png" width=50% height=50%>
 
 ## Setup inicial (eliminando el storyboard y redireccionando entrada de la app al router del primer módulo de VIPER)
 
